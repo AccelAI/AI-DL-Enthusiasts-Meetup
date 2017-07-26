@@ -14,4 +14,4 @@ http://bit.ly/DeepLearningBookCh1-2﻿
 - [Eigendecomposition](https://youtu.be/HWnCv4iHCDc)
 
 
--[Singular Value Decomposition](https://youtu.be/LeHtQmIOERo)
+- [Singular Value Decomposition](https://youtu.be/LeHtQmIOERo)
