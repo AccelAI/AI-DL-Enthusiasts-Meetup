@@ -1,7 +1,7 @@
 
 ## Presentation Slides
 
-http://bit.ly/DeepLearningBookCh1-2﻿
+http://bit.ly/DeepLearningBookCh1-2
 
 
 ## Online Discussion
