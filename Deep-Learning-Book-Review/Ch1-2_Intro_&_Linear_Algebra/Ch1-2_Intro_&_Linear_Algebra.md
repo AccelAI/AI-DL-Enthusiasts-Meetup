@@ -11,7 +11,7 @@ http://bit.ly/DeepLearningBookCh1-2﻿
 
 ## Additional Resources
 
-- [Eigendecomposition]("https://youtu.be/HWnCv4iHCDc","Eigendecomposition: https://youtu.be/HWnCv4iHCDc")
+- [Eigendecomposition](https://youtu.be/HWnCv4iHCDc)
 
 
 -[Singular Value Decomposition](https://youtu.be/LeHtQmIOERo)
