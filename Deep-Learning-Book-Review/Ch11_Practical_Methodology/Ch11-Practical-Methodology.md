@@ -1,3 +1,9 @@
+# Deep Learning Book Chapter 11 Practical Methodology
+
+## Chapter Link
+
+http://www.deeplearningbook.org/contents/guidelines.html
+
 
 ## Presentation Slides
 

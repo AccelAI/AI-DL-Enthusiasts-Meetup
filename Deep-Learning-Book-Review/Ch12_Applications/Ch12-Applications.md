@@ -1,4 +1,10 @@
 
+# Deep Learning Book Chapter 12 Applications
+
+## Chapter Link
+
+http://www.deeplearningbook.org/contents/applications.html
+
 ## Presentation Slides
 
 http://goo.gl/7QRXme

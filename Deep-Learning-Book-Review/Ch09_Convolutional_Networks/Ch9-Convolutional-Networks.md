@@ -1,4 +1,10 @@
 
+# Deep Learning Book Chapter 9 Convolutional Networks
+
+## Chapter Link
+
+http://www.deeplearningbook.org/contents/convnets.html
+
 ## Presentation Slides
 
 http://goo.gl/6MabiP
