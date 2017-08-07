@@ -28,5 +28,7 @@
 
 ## Additional Resources
 
+[Geoffrey Hinton on max pooling](https://mirror2image.wordpress.com/2014/11/11/geoffrey-hinton-on-max-pooling-reddit-ama/)
+
 
 
