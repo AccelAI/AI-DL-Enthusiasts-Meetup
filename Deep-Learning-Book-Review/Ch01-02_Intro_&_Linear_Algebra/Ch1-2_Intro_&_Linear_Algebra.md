@@ -18,7 +18,7 @@
 
 ## Online Discussion
 
-[![Ch1&2 Video](http://img.youtube.com/IinSdnnEDpc/0.jpg)](https://youtu.be/IinSdnnEDpc)
+[![Ch1&2 Video](1&2.png)](https://youtu.be/IinSdnnEDpc)
 
 <VIDEO>https://youtu.be/IinSdnnEDpc</VIDEO>
 
