@@ -29,3 +29,29 @@ Looking forward to learning with you!
 PS: This idea was pretty popular on reddit 
 
 https://www.reddit.com/r/MachineLearning/comments/5mm8sr/d_anybody_interested_in_an_online_reading_group/
+
+
+## Resources
+
+  Chapter | Topic
+  -----|---------
+  01 - 02 | [Introduction and Linear Algebra](Ch01-02_Intro_&_Linear_Algebra/)
+  03 |  [Probability and Information Theory](Ch03_Probability_and_Information_Theory/)
+  04 | [Numerical Computation](Ch04_Numerical_Computation/)
+  05 | [Machine Learning Basics](Ch05_Machine_Learning_Basics/)
+  06 | [Deep Feedforward Networks](Ch06_Deep_Feedforward_Networks/)
+  07 | [Regularization for Deep Learning](Ch07_Regularization_for_Deep_Learning/)
+  08 | [Optimization for Training Deep Models](Ch08_Optimization_for_Training_Deep_Models/)
+  09 | [Convolutional Networks](Ch09_Convolutional_Networks/)
+  10 | [Sequence Modeling: Recurrent and Recursive Nets](Ch10_Sequence_Modeling/)
+  11 | [Practical Methodology](Ch11_Practical_Methodology/)
+  12 | [Applications](Ch12_Applications/)
+  13 | [Linear Factor Models](Ch13_Linear_Factor_Models/)
+  14 | [Autoencoders](Ch14_AutoEncoders/)
+  15 | Representation Learning
+  16 | Structured Probabilistic Models for Deep Learning
+  17 | Monte Carlo Methods
+  18 | Confronting the Partition Function
+  19 | Approximate Inference
+  20 | Deep Generative Models
+
