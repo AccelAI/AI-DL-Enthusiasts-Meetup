@@ -39,4 +39,9 @@
 
 [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 
+[Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
+
+[Recurrent Highway Networks](https://arxiv.org/pdf/1607.03474.pdf)
+
 ![Smart Initialization](https://image.slidesharecdn.com/15chernodub2016v01-160606102925/95/aibigdata-lab-2016-40-638.jpg?cb=1465209068)
+
