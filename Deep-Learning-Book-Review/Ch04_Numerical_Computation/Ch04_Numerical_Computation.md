@@ -14,6 +14,8 @@ http://www.deeplearningbook.org/contents/numerical.html
 
 <VIDEO>https://youtu.be/Zcfbdqkb0Sw</VIDEO>
 
+[![Ch4 Video](http://img.youtube.com/vi/Zcfbdqkb0Sw/0.jpg)](https://youtu.be/Zcfbdqkb0Sw)
 
 ## Additional Resources
+
 
