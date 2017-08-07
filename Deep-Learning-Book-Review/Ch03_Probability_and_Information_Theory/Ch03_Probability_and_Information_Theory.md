@@ -20,9 +20,11 @@
 
 ## Additional Resources
 
-![Topology](https://i.stack.imgur.com/YsZc9.png)
-
 [Probability cheet sheet](http://www.wzchen.com/probability-cheatsheet/)
 
 [Probability and Computing](http://www.mscs.dal.ca/~janssen/5340/ToRead/mitzenmacher-upfal.pdf)
+
+![Topology](https://i.stack.imgur.com/YsZc9.png)
+
+
 
