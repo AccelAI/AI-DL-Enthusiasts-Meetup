@@ -9,10 +9,16 @@
 
 ## Presentation Slides
 
-http://bit.ly/DeepLearningBookCh1-2
+### Online 
+
+[Intro & Linear Algebra Presentation by Laura Montoya](http://bit.ly/DeepLearningBookCh1-2)
+
+
 
 
 ## Online Discussion
+
+[![Ch1&2 Video](http://img.youtube.com/IinSdnnEDpc/0.jpg)](https://youtu.be/IinSdnnEDpc)
 
 <VIDEO>https://youtu.be/IinSdnnEDpc</VIDEO>
 

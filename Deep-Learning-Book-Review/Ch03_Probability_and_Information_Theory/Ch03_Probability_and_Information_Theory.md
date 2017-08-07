@@ -1,17 +1,19 @@
 # Deep Learning Book Chapter 3 Probability & Information Theory
 
-## Chapter Links
+## Chapter Link
 
-http://www.deeplearningbook.org/contents/prob.html
+[Chapter 3 Probability](http://www.deeplearningbook.org/contents/prob.html)
 
 
 ## Presentation Slides
 
-http://tiny.cc/DLBookCh3Slides﻿
+[Probability & Information Theory Presentation by Alex Shim](DLB-Probability_Theory-Shim.pdf) 
 
 
 ## Online Discussion
 
+
+[![Ch3Video](http://img.youtube.com/m-eyp6wq8i8/0.jpg)](https://youtu.be/m-eyp6wq8i8)
 <VIDEO>https://youtu.be/m-eyp6wq8i8</VIDEO>
 
 

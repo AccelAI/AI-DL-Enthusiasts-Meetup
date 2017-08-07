@@ -3,19 +3,29 @@
 
 ## Chapter Link
 
-http://www.deeplearningbook.org/contents/applications.html
+[Chapter 12 Applications](http://www.deeplearningbook.org/contents/applications.html)
 
 ## Presentation Slides
 
-http://goo.gl/7QRXme
+### Online
+
+[Applications Presentation by Cherif Jazra](DLB-Applications-Jazra.pdf)
+
+### SF
+
+[Applications Presentation by Ike Okonkwo](DLB-Applications-Okonkwo.pdf)
 
 
 ## Online Discussion
 
-Part 1
-<VIDEO>https://www.youtube.com/watch?v=9yYupUrWCd8&feature=youtu.be</VIDEO>
+### Part 1
 
-Part 2: 
-<VIDEO>https://www.youtube.com/watch?v=soKWDbVImUs&t=0s</VIDEO>
+[![Ch12 p1 Video](http://img.youtube.com/9yYupUrWCd8/0.jpg)](https://youtu.be/9yYupUrWCd8)
+<VIDEO>https://youtu.be/9yYupUrWCd8</VIDEO>
 
+### Part 2
 
+[![Ch12 p2 Video](http://img.youtube.com/soKWDbVImUs/0.jpg)](https://youtu.be/soKWDbVImUs)
+<VIDEO>https://youtu.be/soKWDbVImUs/VIDEO>
+
+## Additional Resources

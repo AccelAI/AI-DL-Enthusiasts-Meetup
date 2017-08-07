@@ -3,19 +3,30 @@
 
 ## Chapter Link
 
-http://www.deeplearningbook.org/contents/convnets.html
+[Chapter 9 Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)
 
 ## Presentation Slides
 
-http://goo.gl/6MabiP
+### Online
+
+[Convolutional Networks Presentation by Cherif Jazra](DLB-CNN-Jazra.pdf)
+
+### SF
+
+[Convolutional Networks Presentation by Gary Feierbach](DLB-CNN-Feierbach.pdf)
 
 
 ## Online Discussion
 
-Part 1
-<VIDEO>https://www.youtube.com/watch?v=LZckG0Bqghg&feature=youtu.be</VIDEO>
+### Part 1
+[![Ch9 p1 Video](http://img.youtube.com/LZckG0Bqghg/0.jpg)](https://youtu.be/LZckG0Bqghg)
+<VIDEO>https://youtu.be/LZckG0Bqghg</VIDEO>
 
-Part 2: 
-<VIDEO>https://www.youtube.com/watch?v=5H6Z4zJkuXw&feature=youtu.be</VIDEO>
+### Part 2
+[![Ch9 p2 Video](http://img.youtube.com/5H6Z4zJkuXw/0.jpg)](https://youtu.be/5H6Z4zJkuXw)
+<VIDEO>https://youtu.be/5H6Z4zJkuXw</VIDEO>
+
+## Additional Resources
+
 
 
