@@ -13,7 +13,8 @@
 ## Online Discussion
 
 
-[![Ch3Video](http://img.youtube.com/m-eyp6wq8i8/0.jpg)](https://youtu.be/m-eyp6wq8i8)
+[![Ch3Video](3.png)](https://youtu.be/m-eyp6wq8i8)
+
 <VIDEO>https://youtu.be/m-eyp6wq8i8</VIDEO>
 
 
