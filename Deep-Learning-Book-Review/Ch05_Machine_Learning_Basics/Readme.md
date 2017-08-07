@@ -17,7 +17,7 @@
 
 ## Online Discussion
 
-[![Ch 5 Video](http://img.youtube.com/WsQVC8718H4/0.jpg)](https://youtu.be/WsQVC8718H4)
+[![Ch 5 Video](5.png)](https://youtu.be/WsQVC8718H4)
 
 <VIDEO>https://youtu.be/WsQVC8718H4</VIDEO>
 
