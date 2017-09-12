@@ -20,32 +20,57 @@ Alternatively, you could ask that the donations be made to the AIDLE Open Collec
  1. Email Organizers: John Jameson (john.paperdis@gmail.com) and Laura Montoya (lauramontoya@accel.ai) the following:
 
     a. One or more papers you’d like to discuss (only one will be chosen)
+    
         * If multiple papers are proposed, you’ll need to add a poll to the event page so that attendees may vote on the preferred paper.
+        
     b. What possible day/times you’d like to have the discussion
+    
     c. If all is well, Laura will give you “host” status to you can announce the discussion etc.
+    
     d. If this is your first time leading a session, Jameson or Montoya will join the session to help with moderation and any roadblocks you may encounter.
+    
 2. Announce the meeting on the “AI & Deep Learning Enthusiasts” (AIDLE) Meetup site:
+
     a. Prepare an opening presentation, 5 to 30 minutes long, that introduces the paper and what you are particularly curious about or most interested in.
+    
     b. To announce the discussion, first go to: https://www.meetup.com/Artificial-Intelligence-Deep-Learning-Enthusiasts-Meetup/
+    
     c. Hover the cursor over “group tools” and select “schedule a meetup”
+    
     d. In “select date and time” don’t forget to include the time zone, e.g., 7 pm PDT
+    
     e. In “select a place” choose “Online via Uberconference”
+    
     f. In the box “what should we do?” put “AI Research Discussion Session (Online): Name of the Paper”
+    
     g. In the box “Details” use the cover message shown on the last page in this guide to announce the paper (which goes over the attendee guidelines). It consists of two parts. The first part regards the specific paper and should include:
+    
         * Title of the paper 
+        
         * Download link for the paper and links to any other useful information
+        
         * How much you’ll charge for each attendee  ($2 typical, but can be free). If you plan to charge for the discussion (recommended), you will need a paypal account if you don’t have one, or at least some way attendees can pay you directly by credit card (with instructions on how to do so).
+        
         * Any other information useful for the specific paper discussion
+        
     The second part covers the general notes for the attendees. You should simply copy and paste the section at the end of these notes as the second half of 
 
     h. Review it a few times and then post the message (you can always edit later as well)
+    
     i. Obtain a free uberconference account (note the web address for your account). Note that you may need to upgrade this account for $20 for one month if you expect to have more than 10 people (another reason you may want to charge for attendance)
+    
 3. Advertise the event on our FB social media group to gain more attendees from around the world.
+
     a. https://www.facebook.com/groups/AI.DL.Enthusiasts/
+    
 4. Send Reminder Notes
+
     a. It’s easy for attendees to forget they signed up for an event, email reminders help ensure you’ll have good attendance and hopefully a fulfilling discussion session.
+    
     b. To send out emails only to members on the “RSVPd” list, on the main page of the discussion, hover over “group tools” and select “email members”, then on the “email members” page select “see more options” and then click on the selection drop down list under “Members subscribed to Meetup messages for” and then select the appropriate class of members, e.g., “Members who RSVP’ed Yes for this Meetup,” and then fill out the email details and send.
+    
     c. Three days before the discussion send out reminder emails to the “RSVPd” list about the upcoming discussion, and if they haven’t paid, to do so before 8pm on the day of the discussion. Do this two days before as well.
+    
     d. On the morning of the day of the meetup: email the web address for the discussion, e.g., www.uberconference.com/johndoe, to only the members that are going to the meetup (“RSVP’d”); this is to be done on the morning of the day of the meetup. 
 
 ### Twenty Minutes Before the Discussion
