@@ -27,6 +27,10 @@
 
 - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 
+-[Variational Autoencoders Research Paper](https://arxiv.org/abs/1312.6114)
+
+
+
 
 
 
