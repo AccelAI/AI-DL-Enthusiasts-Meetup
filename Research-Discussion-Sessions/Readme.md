@@ -17,7 +17,7 @@ Alternatively, you could ask that the donations be made to the AIDLE Open Collec
 
 ### Prior to the Discussion:
 
- 1. Email Organizers: John Jameson (john.paperdis@gmail.com) and Laura Montoya (lauramontoya@accel.ai) the following:
+ 1. Email Organizers: John Jameson (john.paperdis@gmail.com) and Laura Montoya (meetup@accel.ai) the following:
 
     a. One or more papers you’d like to discuss (only one will be chosen)
     
