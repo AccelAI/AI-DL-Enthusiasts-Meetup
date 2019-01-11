@@ -8,7 +8,7 @@ Each discussion group will have a “leader” who moderates the discussion, and
 
 When possible, we'll invite the author(s) of the paper to join us to answer questions, not to give an in-depth presentation, but rather help facilitate the discussion and understanding.
 
-Attendee Guidelines:
+## Attendee Guidelines:
 
 - Try to read the paper and find a few good questions and/or insights.
 
@@ -25,13 +25,13 @@ Attendee Guidelines:
 
 ## Do you want to propose a research discussion?
 
-Follow our guidelines:
+Follow our lead guidelines:
 [AI Research Discussion Lead Guidelines](/Lead-Guidelines.md)
 
 ## Reviewed Research Papers
 
-Date| Paper | Video | Notes | Reference
------|---------|-------------
-01/11/19| [DOPAMINE: A RESEARCH FRAMEWORK FOR DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1812.06110.pdf) | [Dopamine - AIDLE - AI Research Discussion](https://youtu.be/bd4CsDp00RA) | /Discussion-Notes/Dopamine.md | {psc,smoitra,cgel,kumasaurabh,bellemare}@google.com
-05/02/18|[The Value Learning Problem](https://intelligence.org/files/ValueLearningProblem.pdf)|[Recorded Discussion](https://youtu.be/28WhOI6jthc)| |nate@intelligence.org
-02/09/18|[Nationality Classification Using Name Embeddings](https://arxiv.org/pdf/1708.07903.pdf)|[AI Research Discussion](https://youtu.be/WSeOdzGUGHU)| |{juyye,shhan,qin,skiena}@cs.stonybrook.edu,{yifanhu,meizhu}@oath.com,barisco@amazon.com
+Date| Paper | Video | Slides | Notes | Reference
+-----|---------|-------------|-----------|-----------|---------
+01/11/19| [DOPAMINE: A RESEARCH FRAMEWORK FOR DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1812.06110.pdf) | [Dopamine - AIDLE - AI Research Discussion](https://youtu.be/bd4CsDp00RA)|[Dopamine Discussion Slides](/Slides/Dopamine.pdf)|[Dopamine Discussion Notes](/Discussions/Dopamine.md)|{psc,smoitra,cgel,kumasaurabh,bellemare}@google.com
+05/02/18|[The Value Learning Problem](https://intelligence.org/files/ValueLearningProblem.pdf)|[Recorded Discussion](https://youtu.be/28WhOI6jthc)|||nate@intelligence.org
+02/09/18|[Nationality Classification Using Name Embeddings](https://arxiv.org/pdf/1708.07903.pdf)|[AI Research Discussion](https://youtu.be/WSeOdzGUGHU)|||{juyye,shhan,qin,skiena}@cs.stonybrook.edu,{yifanhu,meizhu}@oath.com,barisco@amazon.com
