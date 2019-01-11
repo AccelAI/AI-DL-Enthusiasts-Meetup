@@ -12,7 +12,7 @@ Colab: https://colab.research.google.com/github/google/dopamine/blob/master/dopa
 
 Discussion Lead: [Laura Montoya](http://www.lauranmontoya.com)
 
-Slides: [Dopamine Discussion Slides](/Slides/Dopamine.pdf)
+Slides: [Dopamine Discussion Slides](./Slides/Dopamine.pdf)
 
 Video: [Dopamine - AIDLE - AI Research Discussion](https://youtu.be/bd4CsDp00RA)
 
